@@ -58,21 +58,21 @@ body {
 
 @font-face {
     font-family: "Gilroy";
-    src: url("/../fonts/Gilroy-Regular.woff") format("woff");
+    src: url("https://cdn.jsdelivr.net/gh/iizadosywer/fresh@main/fonts/Gilroy-Regular.woff") format("woff");
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: "Gilroy";
-    src: url("/../fonts/Gilroy-Bold.woff") format("woff");
+    src: url("https://cdn.jsdelivr.net/gh/iizadosywer/fresh@main/fonts/Gilroy-Bold.woff") format("woff");
     font-style: normal;
     font-weight: 600;
 }
 
 @font-face {
     font-family: "Gilroy";
-    src: url("/../fonts/Gilroy-Heavy.woff") format("woff");
+    src: url("https://cdn.jsdelivr.net/gh/iizadosywer/fresh@main/fonts/Gilroy-Heavy.woff") format("woff");
     font-style: normal;
     font-weight: 700;
 }
@@ -4609,3 +4609,4 @@ input#wpmtst_submit_testimonial {
     display: none !important;
 
 }
+
