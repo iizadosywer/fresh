@@ -454,7 +454,7 @@ table {
 }
 
 .bar-mid-nav {
-    background-image: url("/../images/artboard.svg");
+    background-image: url("https://opfr.ru/images/artboard.svg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -473,7 +473,7 @@ table {
 }
 
 .bgr-slider-top1 {
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("/../images/cashback.jpg");
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("https://opfr.ru/images/cashback.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
@@ -482,7 +482,7 @@ table {
 }
 
 .bgr-slider-top2 {
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("/../images/download-casino.jpg");
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("https://opfr.ru/images/download-casino.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
@@ -491,7 +491,7 @@ table {
 }
 
 .bgr-slider-top3 {
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("/../images/first-deposit.jpg");
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("https://opfr.ru/images/first-deposit.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
@@ -500,7 +500,7 @@ table {
 }
 
 .bgr-slider-top4 {
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("/../images/live-dealers.jpg");
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("https://opfr.ru/images/live-dealers.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -509,7 +509,7 @@ table {
 }
 
 .bgr-slider-top5 {
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("/../images/lucky-ticket.jpg");
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("https://opfr.ru/images/lucky-ticket.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
@@ -518,7 +518,7 @@ table {
 }
 
 .bgr-slider-top6 {
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("/../images/warofkings.jpg");
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("https://opfr.ru/images/warofkings.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
@@ -4609,4 +4609,5 @@ input#wpmtst_submit_testimonial {
     display: none !important;
 
 }
+
 
