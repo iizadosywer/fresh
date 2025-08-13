@@ -355,7 +355,7 @@ table {
 }
 
 .logo {
-    background-image: url("/../images/logo.svg");
+    background-image: url("https://opfr.ru/images/logo.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -4607,4 +4607,5 @@ input#wpmtst_submit_testimonial {
 
 .d-none {
     display: none !important;
+
 }
