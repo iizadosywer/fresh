@@ -58,21 +58,21 @@ body {
 
 @font-face {
     font-family: "Gilroy";
-    src: url("https://cdn.jsdelivr.net/gh/iizadosywer/fresh@main/fonts/Gilroy-Regular.woff") format("woff");
+    src: url("/../fonts/Gilroy-Regular.woff") format("woff");
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: "Gilroy";
-    src: url("https://cdn.jsdelivr.net/gh/iizadosywer/fresh@main/fonts/Gilroy-Bold.woff") format("woff");
+    src: url("/../fonts/Gilroy-Bold.woff") format("woff");
     font-style: normal;
     font-weight: 600;
 }
 
 @font-face {
     font-family: "Gilroy";
-    src: url("https://cdn.jsdelivr.net/gh/iizadosywer/fresh@main/fonts/Gilroy-Heavy.woff") format("woff");
+    src: url("/../fonts/Gilroy-Heavy.woff") format("woff");
     font-style: normal;
     font-weight: 700;
 }
@@ -104,7 +104,7 @@ a {
 
 .social a.vkontakte:before {
     content: '';
-    background: url(https://opfr.ru/images/vkontakte.svg) no-repeat center/contain;
+    background: url(/../images/vkontakte.svg) no-repeat center/contain;
     display: flex;
     width: 30px;
     height: 30px;
@@ -112,7 +112,7 @@ a {
 
 .social a.facebook:before {
     content: '';
-    background: url(https://opfr.ru/images/facebook.svg) no-repeat center/contain;
+    background: url(/../images/facebook.svg) no-repeat center/contain;
     display: flex;
     width: 30px;
     height: 30px;
@@ -120,7 +120,7 @@ a {
 
 .social a.instagram:before {
     content: '';
-    background: url(https://opfr.ru/images/instagram.svg) no-repeat center/contain;
+    background: url(/../images/instagram.svg) no-repeat center/contain;
     display: flex;
     width: 30px;
     height: 30px;
@@ -128,7 +128,7 @@ a {
 
 .social a.youtube:before {
     content: '';
-    background: url(https://opfr.ru/images/youtube.svg) no-repeat center/contain;
+    background: url(/../images/youtube.svg) no-repeat center/contain;
     display: flex;
     width: 30px;
     height: 30px;
@@ -355,7 +355,7 @@ table {
 }
 
 .logo {
-    background-image: url("https://opfr.ru/images/logo.svg");
+    background-image: url("/../images/logo.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -454,7 +454,7 @@ table {
 }
 
 .bar-mid-nav {
-    background-image: url("https://opfr.ru/images/artboard.svg");
+    background-image: url("/../images/artboard.svg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -473,7 +473,7 @@ table {
 }
 
 .bgr-slider-top1 {
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("https://opfr.ru/images/cashback.jpg");
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("/../images/cashback.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
@@ -482,7 +482,7 @@ table {
 }
 
 .bgr-slider-top2 {
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("https://opfr.ru/images/download-casino.jpg");
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("/../images/download-casino.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
@@ -491,7 +491,7 @@ table {
 }
 
 .bgr-slider-top3 {
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("https://opfr.ru/images/first-deposit.jpg");
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("/../images/first-deposit.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
@@ -500,7 +500,7 @@ table {
 }
 
 .bgr-slider-top4 {
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("https://opfr.ru/images/live-dealers.jpg");
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("/../images/live-dealers.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -509,7 +509,7 @@ table {
 }
 
 .bgr-slider-top5 {
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("https://opfr.ru/images/lucky-ticket.jpg");
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("/../images/lucky-ticket.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
@@ -518,7 +518,7 @@ table {
 }
 
 .bgr-slider-top6 {
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("https://opfr.ru/images/warofkings.jpg");
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(34, 101, 163, 0)), url("/../images/warofkings.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
@@ -1802,79 +1802,79 @@ input#wpmtst_submit_testimonial:hover,
 }
 
 .img1 {
-    background-image: url("https://opfr.ru/images/GoldenColts.png");
+    background-image: url("/../images/GoldenColts.png");
 }
 
 .img2 {
-    background-image: url("https://opfr.ru/images/jackandbeanstalk_not_mobile_sw.png");
+    background-image: url("/../images/jackandbeanstalk_not_mobile_sw.png");
 }
 
 .img3 {
-    background-image: url("https://opfr.ru/images/deadoralive_not_mobile_sw.png");
+    background-image: url("/../images/deadoralive_not_mobile_sw.png");
 }
 
 .img4 {
-    background-image: url("https://opfr.ru/images/strollingstaxx_not_mobile_sw.png");
+    background-image: url("/../images/strollingstaxx_not_mobile_sw.png");
 }
 
 .img5 {
-    background-image: url("https://opfr.ru/images/berryburst_not_mobile_sw.png");
+    background-image: url("/../images/berryburst_not_mobile_sw.png");
 }
 
 .img6 {
-    background-image: url("https://opfr.ru/images/WickedCircus.png");
+    background-image: url("/../images/WickedCircus.png");
 }
 
 .img7 {
-    background-image: url("https://opfr.ru/images/twinspindeluxe_not_mobile_sw.png");
+    background-image: url("/../images/twinspindeluxe_not_mobile_sw.png");
 }
 
 .img8 {
-    background-image: url("https://opfr.ru/images/TrollsBridge.png");
+    background-image: url("/../images/TrollsBridge.png");
 }
 
 .img9 {
-    background-image: url("https://opfr.ru/images/elements_not_mobile_sw.png");
+    background-image: url("/../images/elements_not_mobile_sw.png");
 }
 
 .img10 {
-    background-image: url("https://opfr.ru/images/starburst_not_mobile_sw.png");
+    background-image: url("/../images/starburst_not_mobile_sw.png");
 }
 
 .img11 {
-    background-image: url("https://opfr.ru/images/sparks_not_mobile_sw.png");
+    background-image: url("/../images/sparks_not_mobile_sw.png");
 }
 
 .img12 {
-    background-image: url("https://opfr.ru/images/MGS_Genesis_MirrorMagic.png");
+    background-image: url("/../images/MGS_Genesis_MirrorMagic.png");
 }
 
 .img13 {
-    background-image: url("https://opfr.ru/images/LuckyLadyClover.png");
+    background-image: url("/../images/LuckyLadyClover.png");
 }
 
 .img14 {
-    background-image: url("https://opfr.ru/images/hooksheroes_not_mobile_sw.png");
+    background-image: url("/../images/hooksheroes_not_mobile_sw.png");
 }
 
 .img15 {
-    background-image: url("https://opfr.ru/images/BookOfAztec.png");
+    background-image: url("/../images/BookOfAztec.png");
 }
 
 .img16 {
-    background-image: url("https://opfr.ru/images/MGS_MegaMoolah.png");
+    background-image: url("/../images/MGS_MegaMoolah.png");
 }
 
 .img17 {
-    background-image: url("https://opfr.ru/images/MGS_MajorMillions.png");
+    background-image: url("/../images/MGS_MajorMillions.png");
 }
 
 .img18 {
-    background-image: url("https://opfr.ru/images/MGS_TreasureNile.png");
+    background-image: url("/../images/MGS_TreasureNile.png");
 }
 
 .img19 {
-    background-image: url("https://opfr.ru/images/MGS_Rabcat_GnomeWood.png");
+    background-image: url("/../images/MGS_Rabcat_GnomeWood.png");
 }
 
 .img20 {
@@ -2006,7 +2006,7 @@ input#wpmtst_submit_testimonial:hover,
 }
 
 .logo-footer {
-    background-image: url("https://opfr.ru/images/license.png");
+    background-image: url("/../images/license.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -2788,7 +2788,7 @@ input#wpmtst_submit_testimonial:hover,
 }
 
 .right-img1 {
-    background-image: url("https://opfr.ru/images/download_version.png");
+    background-image: url("/../images/download_version.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -2797,7 +2797,7 @@ input#wpmtst_submit_testimonial:hover,
 }
 
 .right-img2 {
-    background-image: url("https://opfr.ru/images/ship.png");
+    background-image: url("/../images/ship.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -2806,7 +2806,7 @@ input#wpmtst_submit_testimonial:hover,
 }
 
 .left-img1 {
-    background-image: url("https://opfr.ru/images/viruses.png");
+    background-image: url("/../images/viruses.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -2837,7 +2837,7 @@ input#wpmtst_submit_testimonial:hover,
 }
 
 .svg-bgr1 {
-    background-image: url("https://opfr.ru/images/img-6.svg");
+    background-image: url("/../images/img-6.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -2846,7 +2846,7 @@ input#wpmtst_submit_testimonial:hover,
 }
 
 .svg-bgr2 {
-    background-image: url("https://opfr.ru/images/img-19.svg");
+    background-image: url("/../images/img-19.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -2855,7 +2855,7 @@ input#wpmtst_submit_testimonial:hover,
 }
 
 .svg-bgr3 {
-    background-image: url("https://opfr.ru/images/img-8.svg");
+    background-image: url("/../images/img-8.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -2864,7 +2864,7 @@ input#wpmtst_submit_testimonial:hover,
 }
 
 .svg-bgr4 {
-    background-image: url("https://opfr.ru/images/img-9.svg");
+    background-image: url("/../images/img-9.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -2873,7 +2873,7 @@ input#wpmtst_submit_testimonial:hover,
 }
 
 .svg-bgr5 {
-    background-image: url("https://opfr.ru//images/img-10.svg");
+    background-image: url("/../images/img-10.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -2882,7 +2882,7 @@ input#wpmtst_submit_testimonial:hover,
 }
 
 .svg-bgr6 {
-    background-image: url("https://opfr.ru/images/img-11.svg");
+    background-image: url("/../images/img-11.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -2891,7 +2891,7 @@ input#wpmtst_submit_testimonial:hover,
 }
 
 .svg-bgr7 {
-    background-image: url("https://opfr.ru/images/img-12.svg");
+    background-image: url("/../images/img-12.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -3078,7 +3078,7 @@ input#wpmtst_submit_testimonial:hover,
     width: 21px;
     height: 21px;
     border: 3px solid #89cc04;
-    background-image: url("https://opfr.ru/images/checkbox-green.png");
+    background-image: url("/../images/checkbox-green.png");
     background-repeat: no-repeat;
     background-size: auto 10px;
     background-position: center center;
@@ -3207,7 +3207,7 @@ input#wpmtst_submit_testimonial:hover,
 }
 
 .right-img-bon {
-    background-image: url("https://opfr.ru/images/chest.png");
+    background-image: url("/../images/chest.png");
     background-position: right;
     background-repeat: no-repeat;
     background-size: contain;
@@ -3230,7 +3230,7 @@ input#wpmtst_submit_testimonial:hover,
     position: relative;
     z-index: 10;
     padding: 120px 240px 200px 42%;
-    background-image: url("https://opfr.ru/images/blot.png");
+    background-image: url("/../images/blot.png");
     background-repeat: no-repeat;
     background-size: auto 100%;
     background-position: left center;
@@ -3867,7 +3867,7 @@ input#wpmtst_submit_testimonial:hover,
         left: 0px;
     }
     .logo {
-        background-image: url(https://opfr.ru/images/logo-short.svg);
+        background-image: url(/../images/logo-short.svg);
         width: 23px;
         height: 23px;
         margin-left: 43px;
@@ -3982,7 +3982,7 @@ input#wpmtst_submit_testimonial:hover,
     background-repeat: no-repeat;
     background-size: auto 100%;
     background-position: right center;
-    background-image: url(https://opfr.ru/images/tournament-slider.svg);
+    background-image: url(/../images/tournament-slider.svg);
     cursor: pointer;
     -webkit-transition: all 0.2s cubic-bezier(0.25, 0.1, 0.25, 1);
     -o-transition: all 0.2s cubic-bezier(0.25, 0.1, 0.25, 1);
@@ -4315,7 +4315,7 @@ input#wpmtst_submit_testimonial:hover,
 .tournament-slider__item-footer-img-in {
     width: 100%;
     padding-top: 29%;
-    background-image: url(https://opfr.ru/images/gold.png);
+    background-image: url(/../images/gold.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center center;
@@ -4332,7 +4332,7 @@ input#wpmtst_submit_testimonial:hover,
 .tournament-slider__item-img-in {
     width: 100%;
     padding-top: 120%;
-    background-image: url(https://opfr.ru/img/img-4.png);
+    background-image: url(/../img/img-4.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center center;
@@ -4507,7 +4507,7 @@ input#wpmtst_submit_testimonial {
         display: block;
     }
     .tournament-slider__item-img-in {
-        background-image: url(https://opfr.ru/img/img-4-mobile.png);
+        background-image: url(/../img/img-4-mobile.png);
     }
     .tournament-slider__item-cont {
         margin-left: 0;
@@ -4607,8 +4607,4 @@ input#wpmtst_submit_testimonial {
 
 .d-none {
     display: none !important;
-
 }
-
-
-
