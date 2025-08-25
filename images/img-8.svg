@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="323px" viewBox="0 0 256 323" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>800E0D9F-17ED-4332-9745-56A7E22D073C</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <radialGradient cx="86.1097515%" cy="52.7897025%" fx="86.1097515%" fy="52.7897025%" r="68.1785534%" gradientTransform="translate(0.861098,0.527897),scale(1.000000,0.792570),rotate(90.000000),scale(1.000000,1.302773),translate(-0.861098,-0.527897)" id="radialGradient-1">
+            <stop stop-color="#DF1F3D" stop-opacity="0.200067935" offset="0%"></stop>
+            <stop stop-color="#6EA500" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-974.000000, -4274.000000)">
+        <rect id="Rectangle-10-Copy-2" fill="url(#radialGradient-1)" x="974" y="4274" width="256" height="323"></rect>
+    </g>
+</svg>

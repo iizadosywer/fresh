@@ -1,0 +1,16 @@
+
+
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 199 104" style="enable-background:new 0 0 199 104;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Combined-Shape-Copy_1_);}
+</style>
+<g id="Assets" transform="translate(-1191.000000, -2275.000000)">
+		<linearGradient id="Combined-Shape-Copy_1_" gradientUnits="userSpaceOnUse" x1="987.0352" y1="2720.2019" x2="986.0352" y2="2720.2019" gradientTransform="matrix(199 0 0 -104 -195030 285228)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path id="Combined-Shape-Copy" class="st0" d="M1247,2295h12v64h-12V2295z M1243,2295v64h-52v-64H1243z M1263,2295h14v64h-14V2295z
+		 M1281,2295h18v64h-18V2295z M1310,2295h18v64h-18V2295z M1339,2295h24v-20l27,52l-27,52v-20h-24V2295z"/>
+</g>
+</svg>
